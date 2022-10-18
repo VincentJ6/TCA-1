@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+.white {
+  text-align: center;
+  color:white;
+  list-style-position: inside;
+}
+
+
+
+.center {
+  text-align: center;
+
+  
+}
